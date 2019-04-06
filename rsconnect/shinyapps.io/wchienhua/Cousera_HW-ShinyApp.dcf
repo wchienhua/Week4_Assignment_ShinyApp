@@ -1,0 +1,12 @@
+name: Cousera_HW-ShinyApp
+title: Cousera_HW-ShinyApp
+username:
+account: wchienhua
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 842798
+bundleId: 1990379
+url: https://wchienhua.shinyapps.io/Cousera_HW-ShinyApp/
+when: 1554503579.46551
+asMultiple: FALSE
+asStatic: FALSE
